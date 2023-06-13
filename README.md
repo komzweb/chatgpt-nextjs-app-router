@@ -1,6 +1,6 @@
 # ChatGPT Next.js App Router
 
-A simple chat app built with [Next.js](https://nextjs.org/) App Router, [Tailwind CSS](https://tailwindcss.com/), and [OpenAI API](https://openai.com/blog/openai-api).
+A simple chat app built with [Next.js](https://nextjs.org/) 13 App Router, [Tailwind CSS](https://tailwindcss.com/), and [OpenAI API](https://openai.com/blog/openai-api).
 
 ![ChatGPT Next.js App Router](chatgpt-nextjs-app-router.png)
 
